@@ -6,6 +6,7 @@ public class Main {
         System.out.println("Merhaba Dünya!");
         System.out.println("can-dev");
         System.out.println("can-dev");
+        System.out.println("can-dev");
 
     }
 }
